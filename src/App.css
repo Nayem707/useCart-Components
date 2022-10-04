@@ -1,0 +1,72 @@
+/* theme dar */
+.bg-black {
+    background-color: black;
+}
+
+.bg-light-black {
+    background-color: #262626 !important;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-light-black {
+    background-color: #262626;
+}
+
+.bg-dark-primary {
+    background-color: #fcbc73 !important;
+}
+
+.text-dark-primary {
+    color: #fcbc73;
+}
+
+/* theme light */
+.bg-light {
+    background-color: white;
+}
+
+.bg-light-2 {
+    background-color: #dadcde;
+}
+
+.bg-light-primary {
+    background-color: #191659 !important;
+}
+
+.text-light-primary {
+    color: #191659 !important;
+}
+
+.img-shirt {
+    background: white;
+    height: 15rem;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: inherit;
+}
+
+.img-shirt-2 {
+    background: white;
+    height: 5rem;
+    width: 10rem;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: inherit;
+}
+
+.shirt-2 {
+    width: 50px;
+}
+
+.card-title-1 {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
